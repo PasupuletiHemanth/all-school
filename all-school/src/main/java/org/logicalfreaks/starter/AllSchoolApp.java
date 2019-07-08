@@ -7,10 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class AllSchoolApp {
 
 	public static void main(String[] args) {
-		
     SpringApplication.run(AllSchoolApp.class, args);
-    
-
 	}
 
 }
